@@ -1,6 +1,0 @@
-D:\GitHub\data-structure\Atoi\bin\Debug\Atoi.exe
-D:\GitHub\data-structure\Atoi\bin\Debug\Atoi.pdb
-D:\GitHub\data-structure\Atoi\obj\Debug\Atoi.csprojAssemblyReference.cache
-D:\GitHub\data-structure\Atoi\obj\Debug\Atoi.csproj.CoreCompileInputs.cache
-D:\GitHub\data-structure\Atoi\obj\Debug\Atoi.exe
-D:\GitHub\data-structure\Atoi\obj\Debug\Atoi.pdb
